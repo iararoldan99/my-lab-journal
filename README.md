@@ -38,7 +38,7 @@ Maven -> UPDATE PROJECT
 Run as SpringBoot Application 
 ```
 
-Please make sure you set up your database configuration (user, password and schema) in application.properties
+### Please make sure you set up your database configuration (user, password and schema) in application.properties
 
 ### Create DATABASE SCHEMA (word-frequency) AND TABLE lab_entry
 
