@@ -1,0 +1,10 @@
+h1, h2, h3 {
+    font-family: 'Mingzat', sans-serif;
+    font-weight: bold;
+    color: #2b2c34;
+}
+
+a, p {
+    color: #2b2c34;
+    font-family: 'Mingzat', sans-serif;
+}
