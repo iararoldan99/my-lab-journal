@@ -1,5 +1,5 @@
 # 'My Lab Journal' 
-Full stack backend application to analyze data and retrieve word frequency/similar words of a given input string based on the Levenshtein distance.
+Full stack application to analyze data and retrieve word frequency/similar words of a given input string based on the Levenshtein distance.
 
 ![Alt Text](https://github.com/iararoldan99/word-frequency-challenge/blob/main/word-frequency/word-frequency-page/word-frequency/public/images/gifs/chrome-capture-2022-6-25.gif)
 
