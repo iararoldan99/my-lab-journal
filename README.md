@@ -1,6 +1,8 @@
 # 'My Lab Journal' 
 Full stack backend application to analyze data and retrieve word frequency/similar words of a given input string based on the Levenshtein distance.
 
+![Alt Text](https://github.com/iararoldan99/word-frequency-challenge/blob/main/word-frequency/word-frequency-page/word-frequency/public/images/gifs/chrome-capture-2022-6-25.gif)
+
 Took 5 hours to complete. Had I had more time to complete it, I would have created a component for the @GetMapping 'getAll' endpoint to allow the user to see all the data entries, and I would have tested the backend service. I would also add EDIT and DELETE functionality. 
 
 ## FRONTEND Get Started (localhost:3000)
